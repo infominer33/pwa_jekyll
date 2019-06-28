@@ -1,6 +1,6 @@
 ---
 title: PWA_Jekyll Deployed - Indieweb Demo
-date: '2018-01-05 22:16:01 +0000'
+date: '2018-06-26 23:23:23 +2300'
 layout: posts
 categories: blog
 abstract: This post is a demonstration of indieweb blogging.
