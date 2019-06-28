@@ -1,8 +1,8 @@
 ---
-title: Jekyll PWA Starter
+title: The Agoric Records
 timezone: UTC
 destination: _site/
-domainname: https://pwa-jekyll-starter.netlify.com
+domainname: https://agoric-records.netlify.com
 baseurl: /
 sitename: My Website
 assetsurl: /static-assets/

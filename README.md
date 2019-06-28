@@ -1,4 +1,20 @@
-# Jekyll + PWA + IndieWeb
+# Agoric Records
+
+This is where I'll keep track of everything related to Agoric, Mark Miller, and ObCap.
+
+
+
+---
+
+## PWA - Progressive Web App
+
+* https://medium.com/@deepusnath/4-points-to-keep-in-mind-before-introducing-progressive-web-apps-pwa-to-your-team-8dc66bcf6011
+  >It starts as a normal web page in a browser, and as a user explores the webpage, they get the prompt if they would like to “Add to Home Screen”. Once the user gives the thumbs up to this prompt, VOILA! PWA gets added to their home screen. Once open from the home screen, it can even hide the browser UI controls and appear as an app.
+  >
+  >This is more like a glorified bookmark that has hit the sweet spot between the web and mobile apps.
+
+
+## Jekyll + PWA + IndieWeb (Jekyll Theme Readme)
 
 A simple Jekyll starter with PWA functionality baked in. This includes a manifest.json file and a sw.js file that caches an app shell. Basic support for IndieWeb Blogging is included, including an RSS feed. Webmention support is included as well but requires a few extra steps to set up.
 
